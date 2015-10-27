@@ -1,0 +1,6 @@
+Original
+--------
+
+Background: FFFFFF
+Brown: 572600
+Red: D1124
