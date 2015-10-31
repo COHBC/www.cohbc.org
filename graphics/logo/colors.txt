@@ -1,6 +1,12 @@
 Original
 --------
 
+Hex:
 Background: FFFFFF
 Brown: 572600
 Red: D1124
+
+RGBA:
+Background: 
+Brown: 572600ff
+Red: d11241ff
