@@ -2,9 +2,9 @@ Original
 --------
 
 Hex:
-Background: FFFFFF
-Brown: 572600
-Red: D1124
+Background: #FFFFFF
+Brown: #572600
+Red:  #D11241
 
 RGBA:
 Background: 
